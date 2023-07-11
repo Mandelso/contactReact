@@ -1,0 +1,19 @@
+body {
+  background: radial-gradient(red, blue);
+}
+
+label {
+  color: aqua;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  color: blue;
+}
+
+h4 {
+  color: #fff
+}
